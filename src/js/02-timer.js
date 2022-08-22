@@ -18,7 +18,7 @@ const refs = {
 }
 
 const { inputDate, startBtn, dataDays, dataHours, dataMinutes, dataSeconds, body, timer} = refs;
-body.setAttribute('style', 'background-color: pink; font-weight: bold; font-size: 30px; text-align: center; max-width: 1000px; margin: auto;');
+body.setAttribute('style', 'background-color: pink; font-weight: bold; font-size: 30px; text-align: center; max-width: 1500px; margin: auto;');
 timer.setAttribute('style', 'display: flex; justify-content: space-around; align-items: center; padding: 50px; margin-top: 100px; border: 5px solid black; border-radius: 10px;');
 startBtn.setAttribute('style', 'padding: 5px 50px; margin-left: auto; margin-right: auto; color: white; font-weight: 700; font-size: 20px; line-height: 1.88; text-align: center; background-color: black; border: 0px solid transparent; border-radius: 5px; cursor: pointer;');
 
